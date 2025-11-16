@@ -33,12 +33,20 @@
   - Blu (بلوبانک)
 - Fix bug on load img on nextjs projects.
 ### Changed
-- Rename ir-central to ir-markazi
+- Rename ir-central to ir-markazi.
 
 ## [1.0.2] - 2025-11-16
 ### Fixed bug
-- Fixed load icons on react
+- Fixed load icons on react.
 
 ## [1.0.3] - 2025-11-16
 ### Changed
 - Change Blu icon
+
+## [1.0.4] - 2025-11-16
+### Added
+- Props types added.
+
+## [1.0.5] - 2025-11-16
+### Fix Bug
+- Fix dir paths.
