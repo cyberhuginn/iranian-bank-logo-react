@@ -1,1 +1,1 @@
-export { default as IranianBank } from "./IranianBankWrapper";
+export { default as IranianBank } from "./IranianBank";
