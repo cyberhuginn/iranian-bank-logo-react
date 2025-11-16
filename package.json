@@ -1,5 +1,5 @@
 {
-  "name": "iranian-bank-logo-react",
+  "name": "@cyberhuginn/iranian-bank-logo-react",
   "version": "1.0.0",
   "description": "Iranian bank logos for React and Next.js",
   "main": "dist/index.js",
@@ -19,10 +19,13 @@
     "logo",
     "react",
     "nextjs",
-    "icons"
+    "icons",
+    "iranian-bank-logo",
+    "iranian-bank",
+    "لوگو بانک"
   ],
   "author": "CyberHuginn",
-  "license": "MIT",
+  "license": "ISC",
   "peerDependencies": {
     "react": ">=17",
     "react-dom": ">=17"
