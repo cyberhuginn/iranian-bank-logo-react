@@ -1,0 +1,26 @@
+{
+  "name": "iranian-bank-logo-react",
+  "version": "1.0.0",
+  "description": "Iranian bank logos for React and Next.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "babel src --out-dir dist --extensions .js,.jsx",
+    "dev": "npm run build -- --watch"
+  },
+  "keywords": ["iran", "bank", "logo", "react", "nextjs", "icons"],
+  "author": "CyberHuginn",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-dom": ">=17"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.0",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.24.0"
+  }
+}
