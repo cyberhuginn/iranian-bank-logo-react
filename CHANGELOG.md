@@ -34,3 +34,7 @@
 - Fix bug on load img on nextjs projects.
 ### Changed
 - Rename ir-central to ir-markazi
+
+## [1.0.2] - 2025-11-16
+### Fixed bug
+- Fixed load icons on react

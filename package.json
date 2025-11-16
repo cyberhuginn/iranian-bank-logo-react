@@ -1,6 +1,6 @@
 {
   "name": "iranian-bank-logo-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Iranian bank logos for React and Next.js",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -9,6 +9,7 @@
     "dist"
   ],
   "scripts": {
+    "prebuild": "node scripts/build-icons.js",
     "build": "babel src --out-dir dist --extensions .js,.jsx && cp index.d.ts dist/index.d.ts && npm run copy-icons",
     "copy-icons": "copyfiles -u 2 src/icons/*.svg dist/icons",
     "dev": "npm run build -- --watch"

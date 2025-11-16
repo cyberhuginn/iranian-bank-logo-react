@@ -61,11 +61,11 @@ export default function App() {
 
 ## Adding New Icons
 
-1. Place your SVG in `src/icons/` folder.
+1. Place your SVG in `icons/` folder.
 2. Run the generate script:
 
 ```bash
-  node scripts/generateIconMap.js
+  node scripts/build-icons.js
 ```
 
 3. Build the package:
