@@ -8,6 +8,13 @@ Supports **client-only rendering**, customizable **size**, and works out-of-the-
 ![med.jpg](https://raw.githubusercontent.com/cyberhuginn/iranian-bank-logo-react/refs/heads/main/med.jpg)
 ---
 
+## repo
+
+Github: https://github.com/cyberhuginn/iranian-bank-logo-react.git  
+Npm: https://www.npmjs.com/package/iranian-bank-logo-react
+
+---
+
 ## Features
 
 - ✅ Ready for React and Next.js
