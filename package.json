@@ -1,6 +1,6 @@
 {
   "name": "iranian-bank-logo-react",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Iranian bank logos for React and Next.js",
   "main": "dist/index.js",
   "module": "dist/index.js",
