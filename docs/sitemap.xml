@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Main project page -->
+    <url>
+        <loc>https://cyberhuginn.github.io/iranian-bank-logo-react/</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- NPM Package page -->
+    <url>
+        <loc>https://www.npmjs.com/package/iranian-bank-logo-react</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- GitHub Repository -->
+    <url>
+        <loc>https://github.com/cyberhuginn/iranian-bank-logo-react</loc>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>
